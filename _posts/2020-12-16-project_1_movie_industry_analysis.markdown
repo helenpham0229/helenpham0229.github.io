@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project 1: Movie Industry Analysis"
-date:       2020-12-16 15:43:09 +0000
+date:       2020-12-16 10:43:10 -0500
 permalink:  project_1_movie_industry_analysis
 ---
 
@@ -45,7 +45,7 @@ After exploring the given dataset, I decided to focus the following questions:
 **Results**
 
 What are the most profitable genres?
-![](https://drive.google.com/file/d/1Q-t5p0GO_zCcwbK0J2-8OKNGzwZ-1NLt/view?usp=sharing)
+![](https://imgur.com/ZP98FXa)
 * After cleaning the dataset, we ended up with approximately 3500 movies
 * The top 200 most profitable movies: Adventure: 117, Action: 87, Comedy: 50, Animation: 43, Sci-fi: 40
 * Observing the bar chart, from the top 200 most profitable movies, Microsoft should invest in Adventure, Action, Sci-Fi, Animation, and Comedy movies
