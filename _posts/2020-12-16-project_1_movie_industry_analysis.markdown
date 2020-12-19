@@ -45,13 +45,13 @@ After exploring the given dataset, I decided to focus the following questions:
 **Results**
 
 What are the most profitable genres?
-![](https://imgur.com/ZP98FXa)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/genres.png)
 * After cleaning the dataset, we ended up with approximately 3500 movies
 * The top 200 most profitable movies: Adventure: 117, Action: 87, Comedy: 50, Animation: 43, Sci-fi: 40
 * Observing the bar chart, from the top 200 most profitable movies, Microsoft should invest in Adventure, Action, Sci-Fi, Animation, and Comedy movies
 
 When should we release our productions?
-![](https://drive.google.com/file/d/1ev5iBwyTnaPNQeyO_wzmE6Lu2nP7z7Yq/view?usp=sharing)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/release.png)
 * I analyzed nearly 6000 films and their release dates
 * June: $54M , July: $53M, November: $52M
 * Based on the line plot, June, July, and November are the most profitable months to release movies.
@@ -59,14 +59,14 @@ When should we release our productions?
 Which director(s) should we hire?
 * I observed around 3000 directors and their productions
 * Directors who directed at least 4 movies tend to make positive net profit overall
-![](https://drive.google.com/file/d/1BX1P9onA1jYqVDckSnPnUMDRdXEq8I98/view?usp=sharing)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/filmdirected.png)
 * Out of those directors who directed 4 or more movies, these director make the most profit: Joss Whedon: $874M per production, Christopher Nolan: $864M per production, Jon Favreau: $826M per production
-![](https://drive.google.com/file/d/1a7X4veMYGCn4cXH-wgCz0ffdO5mj2C5y/view?usp=sharing)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/directors.png)
 
 Who are our biggest competitors?
 * I analyzed over 3000 movies from different studios
 * From the top 50 most profitable movies: Buena Vista: 22, Warner Bros: 8, Universal: 5
-![](https://drive.google.com/file/d/1mkZvK-giHdr6tBSziNIyXVPjZKk6Iead/view?usp=sharing)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/competitors.png)
 
 **Future Work**
 
