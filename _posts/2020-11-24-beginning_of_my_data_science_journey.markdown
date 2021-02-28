@@ -1,11 +1,11 @@
 ---
 layout: post
-title:      "**Beginning of My Data Science Journey**"
-date:       2020-11-25 02:03:02 +0000
+title:      "Beginning of My Data Science Journey"
+date:       2020-11-24 21:03:03 -0500
 permalink:  beginning_of_my_data_science_journey
 ---
 
-# 
+
 Hello! My name is Helen, and I am an aspiring Data Scientist who is currently enrolled in online self-paced data science bootcamp at Flatiron. I graduated from the University of Georgia (Go Dawgs!!) with a BBA in Operations & Supply Chain Management in 2018. Currently, I am working in the accounting department at a fast-growing technology company in Atlanta as Product Billing Specialist. At my  job, I collect and analyze shipment information on each sale order to predict daily, weekly, and monthly revenues.
 
 Personally, I have always liked taking a deep dive into data, analyzing data, and telling stories about data. I think that data helps us make better and quicker decisions that can be extremely crucial for any organizations. Since college, Excel was my first exposure to world of data. In addition, I am also familiar with Power BI and Tableau where I use these tools for data entry, analysis, and visualizations at work. 
