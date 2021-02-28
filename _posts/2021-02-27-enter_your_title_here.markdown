@@ -2,7 +2,7 @@
 layout: post
 title:      "Project 3: Customer Churn Prediction"
 date:       2021-02-27 20:31:26 -0500
-permalink:  enter_your_title_here
+permalink:  project_3_customer_churn_prediction
 ---
 
 
