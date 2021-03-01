@@ -15,7 +15,7 @@ To help SyriaTel fix the problem of customer churn, I did an Exploratory Data An
 This project used the churn in telecoms dataset, which can be found in this repo (customer_churn_data.csv), and on kaggle via this [link](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset/code). This dataset included 21 columns and 3333 unique values. It was already clean with no outliers or null values.
 
 ## Scrub & Explore
-In this portion, We learned that the churn percentage is about 14% or 483 out of 3333 customers. And we are going to explore different factors that can potentially lead to the mentioned rate. Here, I wonly highlight some interesting findings. You can find more details in the notebook.
+In this portion, We learned that the churn percentage is about 14% or 483 out of 3333 customers. And we are going to explore different factors that can potentially lead to the mentioned rate. Here, I only highlight some interesting findings. You can find more details in the notebook.
 
 ### Account Length
 We can see that account_length doesn't seem to have a significant effect whether a customer leaves the company or not because we have similar mean values and standard deviations for account length.
